@@ -1,3 +1,4 @@
+* Magnon
 - magnon的热激发？
   + Spin Seebeck effect (SSE)
 - magnon的电激发？
@@ -5,7 +6,7 @@
 ** doi:10.13373/j.cnki.cjrm.XY19070043
 - YIG是立方晶系，晶格常数1.2376nm，与GGG的晶格常数1.2373十分接近，所以常以GGG作为外延生长YIG的基底。
 - 实验上一般对magnon输运的测量：
-  [[file:imagas/Pt-YIG_exp.png]]
+  [[file:images/Pt-YIG_exp.png]]
   电激发方法的电流会在Pt中产生热，所以magnon的电激发经常伴随着热激发。
   分离两者的方法
   + 电学方法：二次谐波技术。一次谐波对应于磁振子拖拽磁电阻效应
@@ -17,8 +18,13 @@
   + 输入电流的大小（SHE，SSE）
   + 温度（YIG中magnon的散射）
   + YIG的磁结构（顺磁结构中的SSE和SP，YIG的非晶结构也能传输magnon而且更高效）
-**** TODO inspiration
+**** 总结
+- 文章动机
+  分析在Pt/YIG结构中不同因素对非局域magnon信号的影响
+- 方法
+  综述，回顾
+- 结论
+  不同因素是如何影响magnon信号的
+**** TODO 灵感 (Inspiration)
 - 用数值程序研究温度对Pt/YIG系统中自旋输运的影响。
 - 调研温度对此系统的影响的文献
-
-
