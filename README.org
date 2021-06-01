@@ -1,5 +1,7 @@
-- magnon的热激发？Spin Seebeck effect (SSE)
-- magnon的电激发？Spin Hall effect
+- magnon的热激发？
+  + Spin Seebeck effect (SSE)
+- magnon的电激发？
+  + Spin Hall effect
 ** doi:10.13373/j.cnki.cjrm.XY19070043
 - YIG是立方晶系，晶格常数1.2376nm，与GGG的晶格常数1.2373十分接近，所以常以GGG作为外延生长YIG的基底。
 - 实验上一般对magnon输运的测量：
@@ -15,8 +17,7 @@
   + 输入电流的大小（SHE，SSE）
   + 温度（YIG中magnon的散射）
   + YIG的磁结构（顺磁结构中的SSE和SP，YIG的非晶结构也能传输magnon而且更高效）
-*** TODO inspiration
-    - State "TODO"       from              [2021-06-01 Tue 12:32]
+**** TODO inspiration
 - 用数值程序研究温度对Pt/YIG系统中自旋输运的影响。
 - 调研温度对此系统的影响的文献
 
