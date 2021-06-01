@@ -1,3 +1,8 @@
+* Reference reading notes :toc:
+- [[#magnon][Magnon]]
+  - [[#doi1013373jcnkicjrmxy19070043][doi:10.13373/j.cnki.cjrm.XY19070043]]
+  - [[#doi1027604dcnkigwlys2020000053][doi:10.27604/d.cnki.gwlys.2020.000053]]
+
 * Magnon
 - magnon的热激发？
   + Spin Seebeck effect (SSE)
@@ -20,12 +25,9 @@
   + 温度（YIG中magnon的散射）
   + YIG的磁结构（顺磁结构中的SSE和SP，YIG的非晶结构也能传输magnon而且更高效）
 *** 总结
-- 文章动机
-  分析在Pt/YIG结构中不同因素对非局域magnon信号的影响
-- 方法
-  综述，回顾
-- 结论
-  不同因素是如何影响magnon信号的
+- 文章动机：分析在Pt/YIG结构中不同因素对非局域magnon信号的影响
+- 方法：综述，回顾
+- 结论：不同因素是如何影响magnon信号的
 *** TODO 灵感 (Inspiration)
 - 用数值程序研究温度对Pt/YIG系统中自旋输运的影响。
 - 调研温度对此系统的影响的文献
@@ -71,7 +73,7 @@ magnon带-\hbar的自旋角动量！主要的研究方向有：
 - 寻找magnon的良导体
 - 基于magnon的逻辑器件
 - magnon的电场激发与操控
-** TODO 问题
+*** TODO 问题
 - 昴萨格倒易过程？[95]
 - 铁磁共振？
 - 交叉对比STT和SP在不同文献中的含义？
