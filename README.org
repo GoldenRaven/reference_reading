@@ -129,3 +129,5 @@ https://journals.aps.org/search/results?clauses=%5B%7B%22field%22:%22all%22,%22v
 - 会的方法，能算吗？
 - Anderson无序对自旋输运的影响，在写的文章
 - skyrmion文献调研
+- 应该边找边看，筛选了再下载精读？还是应该都下好再筛选？
+  + 应该边搜索，边看，同时筛选了下载，再筛选精读！
