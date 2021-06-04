@@ -120,6 +120,8 @@ doi:10.27157/d.cnki.ghzku.2019.004853
 磁振子自旋电子学中的一个重要的参数：界面处的magnon-electron转换效率。
 
 magnon色散关系复杂，是多种相互作用共同导致的结果。
+
+到第19页，调控和操纵磁振子输运
 ** Magnon 总结
 产生纯自旋流的三种方法：SPE, SHE, SSE. 自旋流的探测可以用：ISHE
 * TODO todo list
