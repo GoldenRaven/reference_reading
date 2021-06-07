@@ -3,6 +3,8 @@
   - [[#综述][综述]]
   - [[#前沿][前沿]]
   - [[#magnon-总结][Magnon 总结]]
+- [[#skyrmion][Skyrmion]]
+  - [[#综述-1][综述]]
 - [[#todo-list][todo list]]
 
 * Magnon
@@ -145,7 +147,22 @@
 ** Magnon 总结
 产生纯自旋流的三种方法：SPE, SHE, SSE. 自旋流的探测可以用：ISHE
 
+* Skyrmion
+** 综述
+*** 纳米结构中的磁斯格明子 金驰名 博士论文 中科大 2017
+磁系统中产生skyrmion的机制有很多，它们也可以相互协同作用。主要机制及产生的skyrmion大小为：
+- 长程的磁偶极相互作用（大小：100nm~1um，由于成本及稳定性被放弃作用磁存贮单元）
+- DMI（5nm~100nm，只存在于空间反濱对称破缺的材料中，总是使相邻自旋趋向于垂直排列）
+- 阻挫交换作用（~1nm）
+- 自旋交换相互作用（~1nm）
+MnSi材料中存在DMI，当外磁场足够大时，所有自旋都指向波矢方向，形成铁磁相。螺旋磁结构的稳定与
+各向异性能密切相关。各向异性能太大将更趋向于形成铁磁态。
 
+两种典型的skyrmion结构，特征是：中心处自旋反平行于外磁场，自旋沿径向逐渐旋转到平行磁场方向。
+根据翻转方式的不同，分为Bloch型和Neel型skyrmion.
+
+关于skyrmion的基本性质，首先要明白一个概念：Berry phase. Berry phase与材料的拓扑性质相关，
+skyrmion是个拓扑非平庸结构，它的动力学可以用Berry phase来描述，称为洐生电动力学。
 * TODO todo list
 https://journals.aps.org/search/results?clauses=%5B%7B%22field%22:%22all%22,%22value%22:%22spin%20transport%22,%22operator%22:%22AND%22%7D%5D&sort=relevance&per_page=20&physh_concept=d46f32eb17b34d09be59fc3461e542db&physh_concept=58071c68730c4a3e982cabc9f0cedf67&physh_concept=51a71a1eb8e44a7f82662cc5a0b67c81&physh_concept=b35238d083c74412b293c7d42fa92c62
 - 自旋流基础 实验、理论、计算方法
