@@ -153,7 +153,22 @@
 - ISHE（探测电场或电流）
 - IRRE（Rashba-Edelstein effect）
 - STT（探测材料磁矩改变）
+*** spin-flop transition V.S. meta magnetic transition (变磁跃迁)
+spin-flop过程是变磁跃迁的一个例子。变磁跃迁是由于施加磁场而引起的磁序（定性）变化的总称。有几种机制可以发生这种情况。
+spin-flop过程是这种变化的一种特殊类型。它与反铁磁体有关。尽管在反铁磁体中没有净磁化，但局部磁矩通常确实具有磁矩取向的首选轴。
+这些被称为（交错）磁化的易轴。您可能知道（或在合适的教科书中查找）单畴反铁磁体中的静磁化率不是各向同性的：
+在垂直于易轴的方向上施加磁场时，静磁化率更大。这反过来意味着（忽略各向异性能量）在能量上有利于反铁磁体将
+其交错磁化垂直于外部场对齐。 （要遵循此声明，请查看磁化和磁化率的定义以及它们与所施加场的能量导数的关系）。
+在存在磁各向异性（即存在交错磁化的易轴）的情况下，这种（磁晶）各向异性与上述术语（塞曼能量）之间会出现竞争。
+在各向异性不太强的情况下，场感应项可能导致交错磁化方向远离易轴旋转。该材料仍然主要是反铁磁体
+（由于施加的场/有限磁化率而具有净磁化，导致略微倾斜的配置），但力矩的方向已偏离无场情况下的易轴。
+这称为spin-flop（变磁）跃迁。
 
+The spin flop process is an example of a metamagnetic transition. A metamagnetic transition is a general term for (qualitative) changes in magnetic order due to the application of a magnetic field. There are several mechanisms by which something of this kind may occur. 
+
+The spin flop process is one particular kind of such a change. It is related to antiferromagnets. Although in antiferromagnets there is no net magnetization, the local moments usually do have preferred axes for the moment orientation. These are then called the easy axes of (staggered) magnetization. You may know (or look it up in a suitable textbook) that the static magnetic susceptibility in single domain antiferromagnets is not isotropic: it is larger when the magnetic field is applied in a direction perpendicular to the easy axis. This in turn implies that (neglecting anisotropy energy) it is energetically favorable for an antiferromagnet to align its staggered magnetization perpendicular to the external field. (To follow this statement, review the definition of magnetization and susceptibility and their relation to derivatives of energy w.r.t. the applied field).
+
+In the presence of magnetic anisotropy (i.e. the existence of easy axes of staggered magnetization) a competition arises between this (magnetocrystalline) anisotropy and the term discussed above (a Zeeman energy). In case of not too strong anisotropy, the field induced term may cause a rotation of the direction of staggered magnetization away from the easy axis. The material is then still largely an antiferromagnet (with a net magnetization due to the applied field / finite susceptibility, resulting in a slightly canted configuration), but the orientation of the moments has turned away from what is the easy axis in the field free case. This is called a spin flop (metamagnetic) transition.
 
 ** Magnon 总结
 产生纯自旋流的三种方法：SPE, SHE, SSE. 自旋流的探测可以用：ISHE
