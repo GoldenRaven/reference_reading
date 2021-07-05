@@ -189,6 +189,12 @@ MnSi材料中存在DMI，当外磁场足够大时，所有自旋都指向波矢�
 
 关于skyrmion的基本性质，首先要明白一个概念：Berry phase. Berry phase与材料的拓扑性质相关，
 skyrmion是个拓扑非平庸结构，它的动力学可以用Berry phase来描述，称为洐生电动力学。
+* Anderson localization
+** 10.1103/PhysRevB.81.085114 2010年 乔振华
+介观体系中的电导在扩散区表现出普适行为，即普适的电导涨落(UCF)只依赖于体系的维度与对称性。
+根据RMT，有三种系综或对称性(文献2)。在扩散区，普适的公式为rms(G)=c_d/sqrt(beta)e^2 /h.
+目前只有扩散区的研究，
+
 * TODO todo list
 https://journals.aps.org/search/results?clauses=%5B%7B%22field%22:%22all%22,%22value%22:%22spin%20transport%22,%22operator%22:%22AND%22%7D%5D&sort=relevance&per_page=20&physh_concept=d46f32eb17b34d09be59fc3461e542db&physh_concept=58071c68730c4a3e982cabc9f0cedf67&physh_concept=51a71a1eb8e44a7f82662cc5a0b67c81&physh_concept=b35238d083c74412b293c7d42fa92c62
 - 自旋流基础 实验、理论、计算方法
