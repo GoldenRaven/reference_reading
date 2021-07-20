@@ -5,6 +5,8 @@
   - [[#magnon-总结][Magnon 总结]]
 - [[#skyrmion][Skyrmion]]
   - [[#综述-1][综述]]
+- [[#anderson-localization][Anderson localization]]
+  - [[#101103physrevb81085114-2010年-乔振华][10.1103/PhysRevB.81.085114 2010年 乔振华]]
 - [[#todo-list][todo list]]
 
 * Magnon
@@ -169,7 +171,12 @@ The spin flop process is an example of a metamagnetic transition. A metamagnetic
 The spin flop process is one particular kind of such a change. It is related to antiferromagnets. Although in antiferromagnets there is no net magnetization, the local moments usually do have preferred axes for the moment orientation. These are then called the easy axes of (staggered) magnetization. You may know (or look it up in a suitable textbook) that the static magnetic susceptibility in single domain antiferromagnets is not isotropic: it is larger when the magnetic field is applied in a direction perpendicular to the easy axis. This in turn implies that (neglecting anisotropy energy) it is energetically favorable for an antiferromagnet to align its staggered magnetization perpendicular to the external field. (To follow this statement, review the definition of magnetization and susceptibility and their relation to derivatives of energy w.r.t. the applied field).
 
 In the presence of magnetic anisotropy (i.e. the existence of easy axes of staggered magnetization) a competition arises between this (magnetocrystalline) anisotropy and the term discussed above (a Zeeman energy). In case of not too strong anisotropy, the field induced term may cause a rotation of the direction of staggered magnetization away from the easy axis. The material is then still largely an antiferromagnet (with a net magnetization due to the applied field / finite susceptibility, resulting in a slightly canted configuration), but the orientation of the moments has turned away from what is the easy axis in the field free case. This is called a spin flop (metamagnetic) transition.
-
+*** PRL 126, 257201 (2021)
+magnon的色散关系：omega = v k^2.
+*** PhysRevLett.127.037202
+- 文章idea: 近期发现了声子的frequency comb，虽然magnon与phonon在很多方面很类似，但magnon系统中的optical frequency comb目前还没有研究。
+- 方法：研究了magnon-skyrmion的相互作用
+- 发现：在驱动幅度大于阀值后会产生magnonic frequency comb，是一个非线性散射过程，涉及三个magnon。频率间隔等于skyrmion的breathing频率，因此可以用电学或磁学的手段来调控。在一大类磁孤子中有普遍性，激了magnon系统中非线性物理的研究。
 ** Magnon 总结
 产生纯自旋流的三种方法：SPE, SHE, SSE. 自旋流的探测可以用：ISHE
 
